@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Cinema  {
     
-    int total_rows = 9;
+    private int total_rows = 9;
     private int total_columns = 9;
     private List<Seat> available_seats = new ArrayList<>();
 
